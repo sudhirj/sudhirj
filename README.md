@@ -6,7 +6,7 @@ If you're writing code in Go and want a simpler interface over DynamoDB, check o
 
 If you're trying to represent Indian currency and can't figure out what the odd conventions are for lakhs and crores, check out [`paisa.rb`](https://github.com/sudhirj/paisa.rb) and [`paisa.js`](https://github.com/sudhirj/paisa.js). 
 
-
+I also procrastinate on [StackOverflow](https://stackoverflow.com/users/73831/sudhir-jonathan) and [Twitter](https://twitter.com/sudhirj).
 
 
 

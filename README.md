@@ -4,6 +4,8 @@ If you're trying to deliver dynamically generated zip files, check out https://z
 
 If you're writing code in Go and want a simpler interface over DynamoDB, check out https://dbProject.RED 
 
+If you're trying to price your product or service worldwide proportionate to the purchasing power of the people in each country, check out https://bigmacpricing.com 
+
 If you're trying to represent Indian currency and can't figure out what the odd conventions are for lakhs and crores, check out [`paisa.rb`](https://github.com/sudhirj/paisa.rb) and [`paisa.js`](https://github.com/sudhirj/paisa.js). 
 
 I work as a technical architect and engineer with small teams that want to better use the cloud and modern tech to accomplish what they need to do. Contact me at sudhir.j@gmail.com if you need help.

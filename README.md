@@ -2,7 +2,7 @@
 
 I work as a technical architect and engineer with small teams that want to better use the cloud and modern tech to accomplish what they need to do. Contact me at sudhir.j@gmail.com if you need help.
 
-If you're trying to delivery dynamically generated zip files, check out https://zips.dev
+If you're trying to deliver dynamically generated zip files, check out https://zips.dev
 
 If you're writing code in Go and want a simpler interface over DynamoDB, check out https://dbProject.RED 
 

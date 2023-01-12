@@ -1,4 +1,6 @@
-Hello.
+Hello. 
+
+I'm Sudhir, I work as the Director of Engineering at [QubeWire](https://www.qubewire.com). 
 
 If you're looking guides to cloud computing, databases, system architecture, and more, check out the blog at https://sudhir.io
 
